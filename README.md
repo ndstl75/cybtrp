@@ -1,7 +1,12 @@
-sp25 dxart 472 ---- cyborg trumpet 
+## sp25 dxart 472 ---- Cyborg Trumpet
+
+
 An experimental hybrid instrument that merges robotics and biometrics.
--------------
-I begin my undergrad career with trumpet so I
+![Cyborg Trumpet](trumpet.jpg)
+
+
+
+I began my undergrad career with trumpet, and I want to end with it too.
 
 
 
