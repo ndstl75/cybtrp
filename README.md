@@ -1,14 +1,17 @@
 ## sp25 dxart 472 ---- Cyborg Trumpet
 
+**“Hear,feel; this is my heart.”**
 
-An experimental hybrid instrument that merges robotics and biometrics.
+
+My first work in media art, an experimental hybrid instrument that merges robotics and biometrics.
 ![Cyborg Trumpet](trumpet.jpg)
 
 
 
 ##
-I began my undergrad career with trumpet, and I want to end with it too.
+I began my undergrad journey with trumpet, and I want to end with it too. This project is my first media‑art/physical‑computing piece. It closes out my bachelor’s work and points directly toward what I’ll research in graduate school.
 
+The sound system includes a speaker and a stethoscope head arranged in a feedback loop. Sound from the speaker is picked up by the stethoscope and sent back again. Sometimes, the beginning becomes the ending, and the ending becomes the beginning.
 
 
 
